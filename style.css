@@ -1,0 +1,46 @@
+fieldset {
+    width: 400px;
+    margin:auto;
+}
+.cari {
+    text-align: center;
+}
+body{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.table-home{
+    margin: 50px;
+    border-radius: 4px;
+    background: red;
+
+}
+table{
+    width: 600px;
+    font-size: 13px;
+    color:black;
+    background-image: red;
+    border-collapse: collapse;
+    align-items: center;
+}
+table thead .dalam{
+    background-color: red;
+}
+table thead{
+    color: rgb(19, 18, 18);
+    background-color: green;
+    font-size: 16px;
+    width: 100%;
+}
+table th{
+    border: 1px solid black;
+    background: rgb(248, 121, 3);
+    width: 50px;
+}
+table td{
+    border: 1px solid black;
+    background: rgb(0, 250, 142);
+    width: 200px;
+
+}
